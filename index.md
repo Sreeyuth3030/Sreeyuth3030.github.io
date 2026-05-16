@@ -25,6 +25,16 @@ An interactive app built in **Code.org App Lab** for AP Computer Science Princip
 Look up any **2019 NBA team** to instantly find their conference, championship history,
 and home arena. Built using JavaScript and Code.org's drag-and-drop interface.
 
+
+---
+
+#### [📈 S&P 500 Stock Market Predictor](https://github.com/Sreeyuth3030/stock-market-predictor)
+
+A machine learning model that predicts whether the S&P 500 will go **up or down** the next trading day.
+Trained on **24,000+ days** of historical data using a **Random Forest Classifier**.
+Achieved **~55% precision** — beating random chance — using backtesting across rolling time windows.
+Built with Python, yfinance, pandas, and scikit-learn.
+
 <!-- 
 To add a project, use this format:
 
