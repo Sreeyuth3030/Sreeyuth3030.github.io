@@ -2,34 +2,41 @@
 
 ---
 
-### Category Name 1 
+### About Me
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I'm Sreeyuth Jakka, a 9th grade high school student with a passion for **coding**, **Artificial Intelligence**, and **Machine Learning**. I'm always learning and building new things — this portfolio is a collection of my projects and work.
 
 ---
 
-### Category Name 2
+### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+*Coming soon! Check back for updates.*
+
+<!-- 
+To add a project, use this format:
+
+#### [Project Title](link-to-project)
+A short description of what the project does and what technologies you used.
+
+---
+-->
 
 ---
 
+### Skills
 
-
+- Python
+- HTML / CSS
+- Git & GitHub
+- Exploring: Machine Learning, AI
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Contact
+
+Feel free to reach out or follow my work:
+- **GitHub:** [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+
+---
+
+*Portfolio built with GitHub Pages · [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio)*
