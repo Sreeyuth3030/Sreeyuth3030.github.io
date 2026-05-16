@@ -1,13 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Sreeyuth Jakka
+
+logo: "/images/logo.png?raw=true"
+
+description: >
+  9th Grade Student | Coder | AI & ML Enthusiast
   <br><br>
-  Second description 
+  Hi, I'm Sreeyuth — a high schooler passionate about coding,
+  Artificial Intelligence, and Machine Learning.
+  I love building things and exploring how technology works.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://github.com/Sreeyuth3030">View My GitHub</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
