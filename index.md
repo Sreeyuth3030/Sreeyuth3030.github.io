@@ -17,6 +17,14 @@ Features a **live camera feed with real-time object detection** — point the ca
 at anything and Jarvis will identify it and describe it out loud.
 Built with JavaScript and Node.js. Developed using AI-assisted coding tools.
 
+
+---
+
+#### [🏀 NBA Team Info App](https://studio.code.org/projects/applab/9259932c-2d36-4fc2-a665-b97a8932f9ff)
+An interactive app built in **Code.org App Lab** for AP Computer Science Principles.
+Look up any **2019 NBA team** to instantly find their conference, championship history,
+and home arena. Built using JavaScript and Code.org's drag-and-drop interface.
+
 <!-- 
 To add a project, use this format:
 
