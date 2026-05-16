@@ -26,7 +26,7 @@ A short description of what the project does and what technologies you used.
 ### Skills
 
 - Python
-- HTML / CSS
+- JavaScript
 - Git & GitHub
 - Exploring: Machine Learning, AI
 
