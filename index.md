@@ -35,7 +35,7 @@ A short description of what the project does and what technologies you used.
 ### Contact
 
 Feel free to reach out or follow my work:
-- **GitHub:** [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- **GitHub:** [Sreeyuth3030](https://github.com/Sreeyuth3030)
 
 ---
 
