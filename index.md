@@ -11,7 +11,11 @@ I'm Sreeyuth Jakka, a 9th grade high school student with a passion for **coding*
 ### Projects
 
 #### [🤖 AI Jarvis Voice Assistant](https://github.com/Sreeyuth3030/Sreeyuth3030.github.io/tree/main/jarvis/JarvisVoice)
-A voice-activated AI assistant built with JavaScript and Node.js, inspired by Iron Man's J.A.R.V.I.S. Responds to voice commands and performs smart actions.
+A voice-activated AI assistant powered by **Claude AI** via API integration.
+Ask it questions and it responds intelligently using a large language model (LLM).
+Features a **live camera feed with real-time object detection** — point the camera
+at anything and Jarvis will identify it and describe it out loud.
+Built with JavaScript and Node.js. Developed using AI-assisted coding tools.
 
 <!-- 
 To add a project, use this format:
