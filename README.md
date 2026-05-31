@@ -1,6 +1,5 @@
-Portfolio
-About Me
-I'm Sreeyuth Jakka, a 9th grade high school student with a passion for coding, Artificial Intelligence, and Machine Learning. I'm always learning and building new things — this portfolio is a collection of my projects and work.
+
+I'm Sreeyuth Jakka, a 9th grade high school student with a passion for coding, Artificial Intelligence, and Machine Learning.this is a collection of my projects and work.
 
 Projects
 [AI Jarvis Voice Assistant](https://github.com/Sreeyuth3030/Sreeyuth3030.github.io/tree/main/jarvis/JarvisVoice)
