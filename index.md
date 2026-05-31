@@ -25,7 +25,7 @@ get their conference, championship wins, and home arena. it's Made in Code.org A
 
 ---
 
-#### [ S&P 500 Stock Market Predictor](https://github.com/Sreeyuth3030/stock-market-predictor)
+#### [ S&P 500 Stock Market Predictor](https://github.com/Sreeyuth3030/Sreeyuth3030.github.io/tree/main/stock%20market-%20predictor)
 
 A machine learning model that predicts whether the S&P 500 will go up or down the next trading day. It's
 Trained on 24,000+ days of data using a Random Forest Classifier. My model achhieved a 55% precision. It's
