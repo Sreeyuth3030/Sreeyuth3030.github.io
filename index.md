@@ -16,6 +16,8 @@ point your camera at anything and it'll tell you what it's looking at, out loud.
 built with JavaScript and Node.js, with help from AI.
 
 
+
+
 ---
 
 #### [ NBA Team Info App](https://studio.code.org/projects/applab/9259932c-2d36-4fc2-a665-b97a8932f9ff)
@@ -30,6 +32,11 @@ get their conference, championship wins, and home arena. it's Made in Code.org A
 A machine learning model that predicts whether the S&P 500 will go up or down the next trading day. It's
 Trained on 24,000+ days of data using a Random Forest Classifier. My model achhieved a 55% precision. It's
 Built with Python, yfinance, pandas, and scikit-learn.
+
+(Stock Prediction.png)
+(Second Stock Graph.png)
+(First Stock Graph.png)
+
 
 <!-- 
 To add a project, use this format:
