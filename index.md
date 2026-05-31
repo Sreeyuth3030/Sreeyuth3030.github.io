@@ -24,7 +24,7 @@ built with JavaScript and Node.js, with help from AI.
 Built for my AP Computer Science Principles Exam, the app lets you look up any 2019 NBA team and 
 get their conference, championship wins, and home arena. it's Made in Code.org App Lab using JavaScript and a drag-and-drop interface.
 
-![App Interface](assets/NBA APP.png)
+![App Interface](assets/nba-app.png)
 
 
 ---
