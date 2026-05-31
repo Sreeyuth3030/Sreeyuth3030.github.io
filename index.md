@@ -33,9 +33,9 @@ A machine learning model that predicts whether the S&P 500 will go up or down th
 Trained on 24,000+ days of data using a Random Forest Classifier. My model achhieved a 55% precision. It's
 Built with Python, yfinance, pandas, and scikit-learn.
 
-![Stock Prediction](assets/stock-prediction.png)
-![S&P 500 Historical Data](assets/first-stock-graph.png)
-![Model Graphh Prediction](assets/second-stock-graph.png)
+![Stock Prediction](Pictures\Screenshots/stock-prediction.png)
+![S&P 500 Historical Data](Pictures\Screenshots/first-stock-graph.png)
+![Model Graphh Prediction](Pictures\Screenshots/second-stock-graph.png)
 
 <!-- 
 To add a project, use this format:
