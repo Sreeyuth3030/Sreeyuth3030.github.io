@@ -15,7 +15,7 @@ Jarvis is a voice-activated AI assistant that listens, thinks, and talks back an
 point your camera at anything and it'll tell you what it's looking at, out loud. You can ask it questions and it gives you answers. It's
 built with JavaScript and Node.js, with help from AI.
 
-
+![Jarvis Interface](assets/jarvis.png)
 
 
 ---
