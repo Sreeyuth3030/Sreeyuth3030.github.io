@@ -9,17 +9,7 @@ I'm Sreeyuth Jakka, a 9th grade high school student with a passion for **coding*
 ---
 
 ### Projects
-
-#### [ AI Jarvis Voice Assistant](https://github.com/Sreeyuth3030/Sreeyuth3030.github.io/tree/main/jarvis/JarvisVoice)
-Jarvis is a voice-activated AI assistant that listens, thinks, and talks back and is powered by Claude AI. If you
-point your camera at anything and it'll tell you what it's looking at, out loud. You can ask it questions and it gives you answers. It's
-built with JavaScript and Node.js, with help from AI.
-
-![Jarvis Interface](assets/jarvis.png)
-
-
 ---
-
 #### [ NBA Team Info App](https://studio.code.org/projects/applab/9259932c-2d36-4fc2-a665-b97a8932f9ff)
 Built for my AP Computer Science Principles Exam, the app lets you look up any 2019 NBA team and 
 get their conference, championship wins, and home arena. it's Made in Code.org App Lab using JavaScript and a drag-and-drop interface.
